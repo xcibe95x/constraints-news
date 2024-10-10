@@ -1,1 +1,9 @@
-
+[
+  {
+    "id": "hello-world",
+    "title": "Hello All!\r",
+    "author": "Cibe\r",
+    "date": "October 10, 2024\r",
+    "content": "Latest news about the game"
+  }
+]
