@@ -12,4 +12,4 @@ Welcome to the website, wish list the game!
 
 [Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
-[![App Platorm](https://playconstraints.com/countess_teaser.jpg)]
+![App Platorm](https://playconstraints.com/countess_teaser.jpg)
